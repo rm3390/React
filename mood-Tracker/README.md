@@ -1,8 +1,37 @@
-# React + Vite
+# Mood Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, intuitive React-based Mood Tracker application that allows users to log and visualize their daily moods.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time date and time display
+- Interactive mood selection with expressive icons
+- Mood logging functionality
+- Historical view of logged moods with timestamps
+- Responsive design for various screen sizes
+
+## Technical Details
+
+This project demonstrates the use of React hooks, particularly `useState` and `useEffect`, to manage state and side effects in a functional component. It showcases:
+
+- State management for current mood, mood history, and current date/time
+- Side effect handling for updating the current time
+- Conditional rendering and dynamic styling
+- Handling user interactions (mood selection and logging)
+- Date and time formatting using JavaScript's `Date` object
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository
+2. Install dependencies with `npm install`
+3. Start the development server with `npm start`
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
+
+## License
+
+This project is [MIT](link-to-your-license-file) licensed.
