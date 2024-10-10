@@ -32,6 +32,4 @@ To run this project locally:
 
 Contributions, issues, and feature requests are welcome! Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
 
-## License
 
-This project is [MIT](link-to-your-license-file) licensed.
