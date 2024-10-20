@@ -1,4 +1,4 @@
-# Tushar Mishra's Advanced Todo App
+# Tushar Mishra's Todo App
 
 An interactive and feature-rich Todo application built with React, Vite, and Tailwind CSS.
 
