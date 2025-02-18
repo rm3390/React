@@ -1,6 +1,6 @@
 # Habit Tracker App
 
-A Habit Tracker app built with React. This app allows users to track their habits, set deadlines, monitor progress, and complete tasks with streaks, milestones, and history tracking. It features a user-friendly interface, real-time progress tracking, and clear notifications for completed tasks.
+ Habit Tracker app built with React. This app allows users to track their habits, set deadlines, monitor progress, and complete tasks with streaks, milestones, and history tracking. It features a user-friendly interface, real-time progress tracking, and clear notifications for completed tasks.
 
 ## Features
 
